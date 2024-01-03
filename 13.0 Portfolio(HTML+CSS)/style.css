@@ -1,0 +1,39 @@
+.gradient-background {
+    background-color: rgb(153, 187, 219);
+}
+
+.full-stack {
+    color:aliceblue
+}
+
+.image-box {
+    position: relative;
+}
+
+.cloud-top {
+    position: absolute;
+    top: 200px;
+    right: 250px;
+}
+
+.cloud-bottom {
+    position: absolute;
+    bottom: 0px;
+    left: 250px;
+}
+
+.id-pic {
+    height: 130px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.rp {
+    position: relative;
+}
+
+.c {
+    font-size: 50px;
+    color: rgb(18, 128, 136);
+}
